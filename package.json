@@ -1,0 +1,17 @@
+{
+  "name": "verificar_firewall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc; node dist/index.js",
+    "win": "node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/shelljs": "^0.8.9",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  }
+}

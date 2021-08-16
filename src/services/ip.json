@@ -1,0 +1,26 @@
+{
+  "telnets": [
+    {
+      "ip": "localhost",
+      "port": "3000",
+      "status": "NOK"
+    },
+    {
+      "ip": "www.facebook.com",
+      "port": "22",
+      "status": "NOK"
+    }
+  ],
+  "pings": [
+    {
+      "ip": "www.google.com",
+      "port": "22",
+      "status": "NOK"
+    },
+    {
+      "ip": "www.facebook.com",
+      "port": "22",
+      "status": "NOK"
+    }
+  ]
+}
